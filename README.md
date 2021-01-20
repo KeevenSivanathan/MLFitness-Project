@@ -1,5 +1,5 @@
 # MLFitness
-<h2 aligh="center">Authors : Antonio Gutierrez and Keeven Savanathan </h2>
+<h2 aligh="center">Authors : Antonio Gutierrez and Keeven Sivanathan </h2>
 A machine learning project project for our USF CS 486-04 Machine Learning class.
 
 <h2 aligh="center">Goal:</h2>
