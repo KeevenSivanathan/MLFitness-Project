@@ -1,6 +1,6 @@
 # MLFitness
-<h2 aligh="center">Authors : Keeven Sivanathan & Antonio Gutierrez </h2>
-A machine learning project for our USF CS 486-04 Machine Learning class.
+<h2 aligh="center">Authors : Antonio Gutierrez and Keeven Savanathan </h2>
+A machine learning project project for our USF CS 486-04 Machine Learning class.
 
 <h2 aligh="center">Goal:</h2>
 The goal of MLFitness is to classify a good squat or bad squat.
